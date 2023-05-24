@@ -1,5 +1,5 @@
 
-NOTE: This repository is archived and its content has been moved to individual repositories in knative-sandbox.
+NOTE: This repository is archived and its content has been moved to individual repositories in knative-extension.
 ----------
 
 ## Knative Client Contributions
